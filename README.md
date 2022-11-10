@@ -1,5 +1,7 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
+[![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
+
 <!--
 **CyberTalex/CyberTalex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
