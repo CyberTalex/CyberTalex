@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 --> 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=CyberTalex&show_icons=true&theme=radical)
 
+[![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/CyberTalex) 
